@@ -51,7 +51,7 @@ class MedicationListView extends GetView<MedicationController> {
     return Center(
       child: Text(
         'No medications found',
-        style: Theme.of(context).textTheme.bodyLarge,
+        style: Theme.of(context).textTheme.bodyMedium,
       ),
     );
   }

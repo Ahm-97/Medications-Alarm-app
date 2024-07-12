@@ -22,7 +22,7 @@ class AppTheme {
         ),
         bodyMedium: TextStyle(
           fontSize: FontSizes.small,
-          color: Colors.black,
+          color: Colors.white,
         ),
         titleLarge: TextStyle(
           fontSize: FontSizes.large,
